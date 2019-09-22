@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "4.7",
+	"EngineAssociation": "4.23",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
@@ -70,7 +70,6 @@
 		}
 	],
 	"TargetPlatforms": [
-		"WindowsNoEditor",
-		"HTML5"
+		"WindowsNoEditor"
 	]
 }
